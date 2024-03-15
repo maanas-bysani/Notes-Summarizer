@@ -15,8 +15,6 @@ import base64
 import re
 import os
 import numpy as np
-
-# import pytesseract
 from PIL import Image
 
 #%% function to get image from url/link
@@ -54,7 +52,6 @@ display_image_from_file(path)
 # https://github.com/openai/openai-python
 # https://platform.openai.com/docs/api-reference?lang=python
 # https://medium.com/@felix.lu07/understanding-and-use-cases-of-a-python-script-for-image-data-extraction-with-openais-gpt-4-vision-f0b5393200e3
-    
 
 client = OpenAI(api_key=($))
 
@@ -105,7 +102,6 @@ print(extracted_text)
 
 # https://cloud.google.com/vertex-ai/docs/samples/aiplatform-gemini-safety-settings#aiplatform_gemini_safety_settings-python
 
-import PIL.Image
 img = PIL.Image.open(https://www.sccsikar.com/blog/wp-content/uploads/2022/08/7-4-745x1024.jpg)
 img
 

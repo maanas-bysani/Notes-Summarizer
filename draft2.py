@@ -13,7 +13,7 @@ from IPython.display import Image as ip_image
 from PIL import Image
 
 # OpenAI API Key
-# api_key = "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"
+# api_key = "$"
 
 #%% Function to encode the image from path
 

@@ -16,6 +16,8 @@ Can machine learning algorithms such as GPT-4V be used to analyse large datasets
 Students prefer writing their notes by hand but due to the speed and style of lecturers, notes are often messy and span several pages. In knowing this, our project is to create a tool that allows students to make a digital form of their notes that makes revision and knowledge recall faster.
 As part of I-Explore Interdisciplinary Computing Year 2 Module.
 
+<br />
+<br />
 
 - Preliminary Codes/irc_ui.py was developed by Kadija.
 - All other codes by Maanas with assistance from Norman (mentor).

@@ -20,7 +20,7 @@ As part of I-Explore Interdisciplinary Computing Year 2 Module.
 
 The final product will be:
 - a webpage with capabilities to upload your notes, extract a summarised version for your reference, and ask questions which the AI answers using information from your notes.
-- The AI model will be able to extract important information - this is text that has been explicitly identified in your notes, for example: by being underlined, highlighted, italicized, boxed, starred, etc.
+- The AI model will be able to extract important information - this is text that has been explicitly identified in your notes using markers such as text that is underlined, highlighted, italicized, boxed, starred, etc.
 
 How is this different from ChatGPT/exisiting models:
 - It offers a user-friendly single-webpage interface which streamlines your learning.

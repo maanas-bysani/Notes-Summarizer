@@ -40,6 +40,8 @@ As part of I-Explore Interdisciplinary Computing Year 2 Module.
 
 <br />
 <br />
+------------------------
+<br />
 <br />
 
 - Preliminary Codes/irc_ui.py was developed by Kadija (Shows uploaded by Maanas as I moved it around while organising the GitHub).
